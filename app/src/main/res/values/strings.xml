@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab11_393Balanin_WeatherJSON</string>
+    <string name="btn_query">Query</string>
+    <string name="txt_info">Information</string>
+    <string name="txt_city">City:</string>
+    <string name="txt_key">API key:</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_history">Load history</string>
+</resources>
